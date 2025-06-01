@@ -3,7 +3,7 @@ heretic-ritualrune-examine = Текущий ритуал: [color=yellow]{ $rit }
 heretic-knowledge-gain = Вы кое-что узнали.
 heretic-knowledge-loss = Вы что-то забыли
 heretic-clothing-component-fail = Не могу это носить!
-heretic-protective-blade-component-no-targets = No targets!
-rust-corruption-silicon-damage = You are being corrupted by the rust!
-disgust-effect-warning = You feel kind of iffy...
+heretic-protective-blade-component-no-targets = Нету Целей!
+rust-corruption-silicon-damage = Ты начинаешь захватывать с помощью ржавчины!
+disgust-effect-warning = Ты чувствуешь себя неуверенно..
 chat-speech-verb-name-hiss = Hiss
