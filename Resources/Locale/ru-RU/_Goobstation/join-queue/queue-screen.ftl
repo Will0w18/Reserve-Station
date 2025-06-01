@@ -1,7 +1,6 @@
-queue-title = Join Queue
-queue-quit = Disconnect
-queue-position = Position in queue:
-queue-total = Total in queue:
+queue-title = Присоедениться к очереди
+queue-quit = Отключиться
+queue-position = Позиция в очереди:
+queue-total = Всего в очереди:
 queue-patreon =
-    Thank you for supporting us on Patreon!
-    Your queue position has been elevated.
+    Спасибо что поддерживаешь нас!
